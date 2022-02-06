@@ -34,10 +34,10 @@
   ],
   "workExpList": [
     {
-      "company_name": "蚂蚁集团",
-      "department_name": "体验技术部",
-      "work_time": ["2018.06", null],
-      "work_desc": "1. 担任蚂蚁高管决策和管理协同产品 “数据作战室” 的前端负责人\r\n2. 负责蚂蚁敏捷 BI 产品 “DeepInsight” 的可视分析模块产品能力建设\n3. 数据可视化 AntV 团队核心成员，负责 G2、G2Plot 开源技术的建设"
+      "company_name": "美团",
+      "department_name": "平台技术部",
+      "work_time": ["2021.05", null],
+      "work_desc": "到店平台技术部下分四个业务线，到店餐饮因历史原因，整体质量保障手段滞后于团队平均线。我负责到餐业务线测试策略制定及人员培养，半年时间带领团队迅速补齐质量建设的基本面。"
     },
     {
       "company_name": "蚂蚁金服",
