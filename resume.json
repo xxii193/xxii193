@@ -54,23 +54,13 @@
   ],
   "skillList": [
     {
-      "skill_name": "自动化测试",
-      "skill_desc": "",
+      "skill_name": "",
+      "skill_desc": "6年自动化测试经验，深度参与持续交付流水线的建设工作，在测试环境管理及测试数据管理上有丰富的经验",
       "skill_level": 
     },
     {
-      "skill_name": "持续交付",
-      "skill_desc": "熟悉 TypeScript，丰富的 ts 项目经验",
-      "skill_level": 
-    },
-    {
-      "skill_name": "数据可视化",
-      "skill_desc": "丰富的可视化工程实践以及开源经验",
-      "skill_level": 
-    },
-    {
-      "skill_name": "React / 前端工程化",
-      "skill_desc": "大型前端项目经验以及组件库开发经验",
+      "skill_name": "",
+      "skill_desc": "能根据业务特点制定测试策略，带领团队负责业务线的质量保障工作",
       "skill_level": 
     }
   ],
