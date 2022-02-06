@@ -35,28 +35,33 @@
   "workExpList": [
     {
       "company_name": "美团",
-      "department_name": "平台技术部",
-      "work_time": ["2021.05", null],
+      "department_name": "到店餐饮业务测试负责人",
+      "work_time": ["2021.5", null],
       "work_desc": "到店平台技术部下分四个业务线，到店餐饮因历史原因，整体质量保障手段滞后于团队平均线。我负责到餐业务线测试策略制定及人员培养，半年时间带领团队迅速补齐质量建设的基本面。"
     },
     {
-      "company_name": "蚂蚁金服",
-      "department_name": "大数据部",
-      "work_time": ["2017.06", "2017.12"],
-      "work_desc": "前端实习生。使用 React 参与开发多类产品：数据研发平台、数据决策平台、数据分析平台的研发工作，同时也参与大型 BI 产品的重构工作，有良好的编码习惯。"
+      "company_name": "美团",
+      "department_name": "住宿门票平台测试负责人",
+      "work_time": ["2019.1", "2021.5"],
+      "work_desc": "为复用底层能力并促进业务互通，到店启动了平台化迁移项目，住宿门票是第一个迁移的业务。我负责探索沉淀大型技术重构的质量保障方案，并复用至其他业务线。"
     },
     {
-      "company_name": "数沃信息科技有限公司",
+      "company_name": "美团",
       "department_name": "",
-      "work_time": ["2017.03", "2017.05"],
-      "work_desc": "前端实习生。使用 Vue 来实现平台功能和逻辑，再用 ECharts 来对数据挖掘分析后的可视化结果进行展示"
+      "work_time": ["2015.4", "2019.1"],
+      "work_desc": "陆续负责商家端、交易、C端的测试工作，完成一线测试工程师到方向负责人的转变。"
     }
   ],
   "skillList": [
     {
       "skill_name": "",
       "skill_desc": "6年自动化测试经验，深度参与持续交付流水线的建设工作，在测试环境管理及测试数据管理上有丰富的经验.",
-      "skill_level": 0
+      "skill_level": 
+    },
+      {
+      "skill_name": "",
+      "skill_desc": "能根据业务特点制定测试策略，带领团队负责业务线的质量保障工作.",
+      "skill_level": 
     }
   ],
   "projectList": [
