@@ -1,10 +1,10 @@
 {
   "avatar": {
     "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
-    "hidden": true
+    "hidden": false
   },
   "profile": {
-    "name": "龚西西",
+   "name": "龚西西",
     "email": "570020109@qq.com",
     "mobile": "18518430120",
     "github": "",
@@ -28,12 +28,12 @@
   ],
   "awardList": [
     {
-      "award_info": "英语 CET6",
-      "award_time": "2015"
+      "award_info": "前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”",
+      "award_time": "2021.07"
     }
   ],
   "workExpList": [
-       {
+    {
       "company_name": "蚂蚁集团",
       "department_name": "体验技术部",
       "work_time": ["2018.06", null],
@@ -54,14 +54,24 @@
   ],
   "skillList": [
     {
-      "skill_name": "",
-      "skill_desc": "6年自动化测试经验，深度参与持续交付流水线的建设工作，在测试环境管理及测试数据管理上有丰富的经验",
-      "skill_level": 
+      "skill_name": "HTML 和 CSS",
+      "skill_desc": "",
+      "skill_level": 89
     },
     {
-      "skill_name": "",
-      "skill_desc": "能根据业务特点制定测试策略，带领团队负责业务线的质量保障工作",
-      "skill_level": 
+      "skill_name": "TypeScript / JavaScript",
+      "skill_desc": "熟悉 TypeScript，丰富的 ts 项目经验",
+      "skill_level": 90
+    },
+    {
+      "skill_name": "数据可视化",
+      "skill_desc": "丰富的可视化工程实践以及开源经验",
+      "skill_level": 90
+    },
+    {
+      "skill_name": "React / 前端工程化",
+      "skill_desc": "大型前端项目经验以及组件库开发经验",
+      "skill_level": 85
     }
   ],
   "projectList": [
