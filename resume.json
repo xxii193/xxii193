@@ -66,13 +66,6 @@
   ],
   "projectList": [
     {
-      "project_name": "平台迁移测试",
-      "project_role": "",
-      "project_time": "2019.04 - 2020.06",
-      "project_desc": "",
-      "project_content": "台及商品平台的特点，通过状态机及线上商品数据建模分析，完善测试覆盖。"
-    },
-    {
       "project_name": "DeepInsight",
       "project_role": "可视分析负责人",
       "project_time": "2018.07 - 2019.04 / 2020.07 - 至今",
